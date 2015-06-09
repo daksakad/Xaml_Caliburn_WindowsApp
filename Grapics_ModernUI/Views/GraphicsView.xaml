@@ -9,12 +9,12 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <metroChart:DoughnutChart Grid.Row="1"
-            ChartTitle="My first char"
-            ChartSubTitle="This is a subtitle">
+        <metroChart:DoughnutChart 
+            ChartTitle="My first chart"
+            ChartSubTitle="Using Modern UI (Metro) charts and Caliburn.Micro 2.0">
             <metroChart:DoughnutChart.Series>
                 <metroChart:ChartSeries
-                    SeriesTitle="TituloSeries"
+                    SeriesTitle="SeriesTitle"
                     DisplayMember="Name"
                     ValueMember="Amount"
                     ItemsSource="{Binding FinancialStuffList}">
