@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="De.TorstenMandelkow.MetroChart" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="De.TorstenMandelkow.MetroChart">
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://De.TorstenMandelkow.MetroChart/Files/De.TorstenMandelkow.MetroChart/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>De.TorstenMandelkow.MetroChart\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAW024</Machine>
+    <WindowsUser>umartinez</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>eca80185-f3e3-4554-8543-37c21ee1efd8</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6DB60A6C06CB9A52CA5C227437DA77DC9DD9352F443B602F6F2A7F83DE84DECE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>eca80185-f3e3-4554-8543-37c21ee1efd8_1.0.0.0_neutral__v4kjqef9adhgm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>eca80185-f3e3-4554-8543-37c21ee1efd8_v4kjqef9adhgm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>eca80185-f3e3-4554-8543-37c21ee1efd8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=umartinez</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-09T15:38:04.641</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\Grapics_ModernUI.exe">
+      <PackagePath>Grapics_ModernUI.exe</PackagePath>
+      <Modified>2015-06-09T15:39:48.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T20:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T20:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\packages\Caliburn.Micro.Core.2.0.2\lib\portable-net45+win8+wp8+wpa81\Caliburn.Micro.dll">
+      <PackagePath>Caliburn.Micro.dll</PackagePath>
+      <Modified>2015-06-09T15:19:18.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\packages\Caliburn.Micro.2.0.2\lib\win81\Caliburn.Micro.Extensions.dll">
+      <PackagePath>Caliburn.Micro.Extensions.dll</PackagePath>
+      <Modified>2015-06-09T15:19:19.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\packages\Caliburn.Micro.2.0.2\lib\win81\Caliburn.Micro.Platform.dll">
+      <PackagePath>Caliburn.Micro.Platform.dll</PackagePath>
+      <Modified>2015-06-09T15:19:19.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\packages\ModernChart.1.0.0\lib\netcore45\De.TorstenMandelkow.MetroChart.dll">
+      <PackagePath>De.TorstenMandelkow.MetroChart.dll</PackagePath>
+      <Modified>2015-06-09T15:13:32.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-09T15:38:03.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-09T15:38:03.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\Views\GraphicsView.xbf">
+      <PackagePath>Views\GraphicsView.xbf</PackagePath>
+      <Modified>2015-06-09T15:38:03.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\Grapics_ModernUI.xr.xml">
+      <PackagePath>Grapics_ModernUI.xr.xml</PackagePath>
+      <Modified>2015-06-09T15:38:03.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\packages\ModernChart.1.0.0\lib\netcore45\De.TorstenMandelkow.MetroChart\Themes\Generic.xaml">
+      <PackagePath>De.TorstenMandelkow.MetroChart\Themes\Generic.xaml</PackagePath>
+      <Modified>2015-06-09T15:13:32.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\umartinez\documents\visual studio 2013\Projects\Grapics_ModernUI\Grapics_ModernUI\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-09T15:38:04.333</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

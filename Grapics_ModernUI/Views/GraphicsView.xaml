@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Grapics_ModernUI.Views.GraphicsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grapics_ModernUI.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+     xmlns:metroChart="using:De.TorstenMandelkow.MetroChart"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <metroChart:DoughnutChart Grid.Row="1"
+            ChartTitle="My first char"
+            ChartSubTitle="This is a subtitle">
+            <metroChart:DoughnutChart.Series>
+                <metroChart:ChartSeries
+                    SeriesTitle="TituloSeries"
+                    DisplayMember="Name"
+                    ValueMember="Amount"
+                    ItemsSource="{Binding FinancialStuffList}">
+                </metroChart:ChartSeries>
+            </metroChart:DoughnutChart.Series>
+
+        </metroChart:DoughnutChart>
+
+    </Grid>
+</Page>

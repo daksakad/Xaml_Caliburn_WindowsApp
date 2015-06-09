@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="FinancialStuffList" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Caliburn.Micro.CaliburnApplication">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="MergedDictionaries" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Grapics_ModernUI.MainPage" />
+    <RootType FullName="De.TorstenMandelkow.MetroChart.DoughnutChart">
+      <RootProperty Name="ChartTitle" />
+      <RootProperty Name="ChartSubTitle" />
+      <RootProperty Name="Series" />
+    </RootType>
+    <RootType FullName="De.TorstenMandelkow.MetroChart.ChartSeries">
+      <RootProperty Name="SeriesTitle" />
+      <RootProperty Name="DisplayMember" />
+      <RootProperty Name="ValueMember" />
+      <RootProperty Name="ItemsSource" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding" />
+    <RootType FullName="Grapics_ModernUI.Views.GraphicsView" />
+  </Roots.RootTypes>
+</Roots>
